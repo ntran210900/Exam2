@@ -12,10 +12,6 @@ void OptionB(PeriodicTable *table);
 //postcondition: none.
 //description: this function will display the periodic table and the option for the program.
 char menuOption() {
-    asdwasdwd
-        ssaasdasws
-asdawe21
-		   asdawdawdawdasdas
     cout << "\n\t" << string(100, char(205)) << "\n";
     cout << "\n\t" << string(100, char(205));
     cout << "\n\tA. Dynamic Array of Structure Elements";
