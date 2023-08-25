@@ -14,6 +14,8 @@ void OptionB(PeriodicTable *table);
 char menuOption() {asdawdasd
 asdasdawdasdasdsadwadsad
 		   testasd22
+
+		   asdawdawdawdasdas
     cout << "\n\t" << string(100, char(205)) << "\n";
     cout << "\n\t" << string(100, char(205));
     cout << "\n\tA. Dynamic Array of Structure Elements";
