@@ -12,6 +12,10 @@ void OptionB(PeriodicTable *table);
 //postcondition: none.
 //description: this function will display the periodic table and the option for the program.
 char menuOption() {
+    asdwasdwd
+        ssaasdasws
+asdawe21
+		   asdawdawdawdasdas
 
     sdafgbsdjkagnasdfklfwA
 asdawe21
