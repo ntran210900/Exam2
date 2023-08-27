@@ -21,7 +21,7 @@ REPOSITORY VERSION #2
 <details>
 <summary>Nguyen Tran (NT) Commit:	</summary>
 <br>#Commit 1NT: <br>
--Added a new class file : Option3.h and Option3.cpp<br>
+-Added a                          new class file : Option3.h and Option3.cpp<br>
 -Added input.h and input.cpp to match with OOP.<br>
 <br>#Commit 2NT:<br>
 -Rework read file function since the old seekg() function is not working properly.<br>
