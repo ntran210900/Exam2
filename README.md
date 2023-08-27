@@ -5,16 +5,16 @@ REPOSITORY VERSION #2
 <details>
 <summary>Progress:</summary>
  <br> A> Read data file, store into a sorted dynamic array and display the data set<br>
-                        B> Minimum                     M> Mid Range<br>
-                        C> Maximum                     N> Quartiles<br>
-                        D> Range(Done)                 O> Interquartile Range<br>
-                        E> Size(Done)                  P> Outliers<br>
-                        F> Sum(Done)                   Q> Sum of Squares<br>
-                        G> Mean(Done)                  R> Mean Absolute Deviation<br>
-                        H> Median(Done)                S> Root Mean Square<br>
-                        I> Frequencies                 T> Standard Error of the Mean<br>
-                        J> Mode                        U> Coefficient of Variation<br>
-                        K> Standard Deviation          V> Relative Standard Deviation<br>
+                        B> Minimum        <space>             M> Mid Range<br>
+                        C> Maximum            <space>         N> Quartiles<br>
+                        D> Range(Done)        <space>         O> Interquartile Range<br>
+                        E> Size(Done)        <space>          P> Outliers<br>
+                        F> Sum(Done)          <space>         Q> Sum of Squares<br>
+                        G> Mean(Done)         <space>         R> Mean Absolute Deviation<br>
+                        H> Median(Done)        <space>        S> Root Mean Square<br>
+                        I> Frequencies        <space>         T> Standard Error of the Mean<br>
+                        J> Mode                <space>        U> Coefficient of Variation<br>
+                        K> Standard Deviation   <space>       V> Relative Standard Deviation<br>
                         L> Variance
                         W> Display all results and write to an output text file
 </details>
